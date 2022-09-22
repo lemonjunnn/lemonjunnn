@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JunYong Kim&fontSize=80" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JunYong%20Kim&fontSize=80)
 
 <br>
 
