@@ -8,7 +8,6 @@
 
 ### Back-end Developer 💻
 
-### I'm growing everyday ⌨️
 
 <br><br>
 
