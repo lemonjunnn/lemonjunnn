@@ -14,7 +14,6 @@
 # 🍀 Portfolio & SNS 🍀
 
 [![Notion](https://img.shields.io/badge/RouteDiary-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Route_diary-dac8d3e3c8244023b42d753bd03d4806)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.instagram.com/lemon_junnn/)
 
 <br><br>
 
